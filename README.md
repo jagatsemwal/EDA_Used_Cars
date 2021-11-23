@@ -1,2 +1,2 @@
 # EDA_Used_Cars
-![](car.gif)
+Dream Cars
